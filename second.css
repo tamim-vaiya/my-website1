@@ -37,6 +37,7 @@ header div {
   border: 1px hidden black;
   margin: 0px ;
   padding: 0px 5px;
+  
 }
 /* unvisited link */
 a:link {
@@ -64,7 +65,7 @@ a:active {
 header div p{
   float: left;
   margin: 0px;
-  padding: 2px;
+  padding-left: 4px;
   border-left: 1px solid rgba(150, 150, 150, 0.568);
   display: inline-flex;
   
